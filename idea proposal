@@ -15,4 +15,13 @@ junctions. Our approach is to monitor the number of the vehicles in a lane with 
         Note: The system is useful in emergencies and it also, helps in reducing pollution and 
         traffic congestion
 2.	The data collected for 2-3 years can be used to analyse the traffic conditions in particular time of the day and help people to plan their travel accordingly. It includes the timeframe 
-[Time of the day (9-10 am, 10-11 am), business days or non-business days, festival times and traffic conditions.
+[Time of the day (9-10 am, 10-11 am), business days or non-business days, festival times and traffic conditions.]
+3.	Build an app interface for commuters that include time saved in commute, effect on environment to make users environment conscious and we can also help users get info of same route commuters, 
+and on few days, the people can have a common ride thereby reducing number of vehicles on road and reducing emissions contributing to environment 
+
+Implementation:
+
+1.	For video processing, we are going to use azure video processing tool from azure media services 
+2.	An app interface which recommends lanes to the drivers and real time traffic conditions at that timeframe
+3.	App uses MapmyIndia API to show navigation to the users in commute 
+4.	App elements include environmental contribution by users indicated in numbers and taking commute with others reduces the number of points 
