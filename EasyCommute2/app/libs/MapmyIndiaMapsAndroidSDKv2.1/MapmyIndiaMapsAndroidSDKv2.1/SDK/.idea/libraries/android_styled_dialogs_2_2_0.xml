@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="android-styled-dialogs-2.2.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.avast/android-styled-dialogs/2.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.avast/android-styled-dialogs/2.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.avast/android-styled-dialogs/2.2.0/6d95f00b1260c9fb41d094753a42f515a073aa1e/android-styled-dialogs-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

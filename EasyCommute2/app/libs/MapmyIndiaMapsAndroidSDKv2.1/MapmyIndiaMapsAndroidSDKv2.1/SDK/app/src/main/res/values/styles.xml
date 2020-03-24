@@ -1,0 +1,16 @@
+<resources>
+
+    <style name="DemoTheme" parent="Theme.AppCompat.Light">
+
+
+        <item name="colorControlNormal">@color/base_color</item>
+        <item name="colorControlActivated">@color/base_color</item>
+        <item name="colorControlHighlight">@color/base_color</item>
+        <item name="colorPrimary">@android:color/white</item>
+        <item name="colorAccent">@color/base_color</item>
+        <item name="colorPrimaryDark">@color/base_color</item>
+        <item name="android:textColorPrimary">@color/base_color</item>
+
+    </style>
+
+</resources>
